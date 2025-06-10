@@ -81,7 +81,7 @@ const WORDS = ["Computer Science Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Tailwind"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/Amoory-Elmihy-77" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/ammar-elmihy-3ab1a6256/" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in/ammar-elmihy-725b31358/" },
   { icon: Instagram, link: "https://www.instagram.com/ammar_elmihy_74/" }
 ];
 
